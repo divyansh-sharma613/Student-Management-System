@@ -1,0 +1,12 @@
+{
+    "01": {
+        "student_id": "01",
+        "name": "Divyansh sharma ",
+        "age": "20",
+        "course": "BCA",
+        "attendance": 95.0,
+        "marks": {
+            "python ": 90.0
+        }
+    }
+}
